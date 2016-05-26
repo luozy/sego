@@ -127,6 +127,9 @@ func (seg *Segmenter) LoadDictionary(files string) {
 	log.Println("sego词典载入完毕")
 }
 
+func (seg *Segmenter) LoadDict(dict []string) {
+}
+
 // 对文本分词
 //
 // 输入参数：
