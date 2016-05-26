@@ -5,7 +5,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/huichen/sego"
+	"github.com/luozy/sego"
 	"log"
 	"os"
 	"runtime"
